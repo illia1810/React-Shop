@@ -1,0 +1,11 @@
+.content_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_not_found {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}

@@ -1,0 +1,22 @@
+.cart_block {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bag-btn{
+    border: 2px solid #000;
+}
+
+.cart-sum{
+    width: 200px;
+    height: 25px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.empty{
+    color: #f00;
+}

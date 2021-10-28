@@ -1,0 +1,5 @@
+.products-tamplate {
+    display: grid;
+    width: 90%;
+    grid-template-columns: repeat(5,1fr);
+}
